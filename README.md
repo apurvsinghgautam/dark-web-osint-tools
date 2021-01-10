@@ -10,7 +10,6 @@
 
 * DarkSearch - [https://github.com/thehappydinoa/DarkSearch,](https://github.com/thehappydinoa/DarkSearch) [https://darksearch.io/](https://darksearch.io/)
 
-* Other Search Engines - Haystack, Kilos, NotEvil, Phobos, Quo, Tor66, TORCH
 
 ## Tools to get onion links
 
