@@ -8,7 +8,7 @@
 
 * Ahmia Search Engine - [ahmia.fi](http://ahmia.fi/), [https://github.com/ahmia/ahmia-site](https://github.com/ahmia/ahmia-site), 
 
-* DarkSearch - [https://darksearch.io/](https://darksearch.io/), [https://github.com/thehappydinoa/DarkSearch,](https://github.com/thehappydinoa/DarkSearch)
+* DarkSearch - [https://darksearch.io/](https://darksearch.io/), [https://github.com/thehappydinoa/DarkSearch](https://github.com/thehappydinoa/DarkSearch)
 
 
 ## Tools to get onion links
