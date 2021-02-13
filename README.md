@@ -23,7 +23,7 @@
 
 * Onionscan - [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
 
-* Onionoff - [https://github.com/k4m4/onioff](https://github.com/k4m4/onioff)
+* Onioff - [https://github.com/k4m4/onioff](https://github.com/k4m4/onioff)
 
 * Onion-nmap - [https://github.com/milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap)
 
