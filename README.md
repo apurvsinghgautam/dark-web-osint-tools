@@ -8,7 +8,7 @@
 
 * Darkdump - [https://github.com/josh0xA/darkdump](https://github.com/josh0xA/darkdump)
 
-* Ahmia Search Engine - [ahmia.fi](http://ahmia.fi/), [https://github.com/ahmia/ahmia-site](https://github.com/ahmia/ahmia-site), 
+* Ahmia Search Engine - [ahmia.fi](http://ahmia.fi/), [https://github.com/ahmia/ahmia-site](https://github.com/ahmia/ahmia-site)
 
 * DarkSearch - [https://darksearch.io/](https://darksearch.io/), [https://github.com/thehappydinoa/DarkSearch](https://github.com/thehappydinoa/DarkSearch)
 
