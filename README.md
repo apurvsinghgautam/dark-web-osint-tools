@@ -38,6 +38,8 @@
 
 * OnionIngestor - [https://github.com/danieleperera/OnionIngestor](https://github.com/danieleperera/OnionIngestor)
 
+* Darc - [https://github.com/JarryShaw/darc](https://github.com/JarryShaw/darc)
+
 ## Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
