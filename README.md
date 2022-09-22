@@ -14,7 +14,6 @@
 
 * Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/)
 
-* Tor66 Fresh Onions - [http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)
 
 ## Tools to scan onion links
 
