@@ -36,6 +36,8 @@
 
 * Darc - [https://github.com/JarryShaw/darc](https://github.com/JarryShaw/darc)
 
+* Midnight Sea - [https://github.com/RicYaben/midnight_sea](https://github.com/RicYaben/midnight_sea)
+
 ## Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
