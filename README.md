@@ -40,6 +40,8 @@
 
 * Midnight Sea - [https://github.com/RicYaben/midnight_sea](https://github.com/RicYaben/midnight_sea)
 
+* Prying Deep - [https://github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
+
 ## Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
