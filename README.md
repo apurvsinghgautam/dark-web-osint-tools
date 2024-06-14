@@ -3,6 +3,8 @@
 ## Dark Web Search Engine Tools
 
 * Katana - [https://github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
+  
+* Darkweblink.com - [http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion)
 
 * OnionSearch - [https://github.com/megadose/OnionSearch](https://github.com/megadose/OnionSearch)
 
