@@ -12,6 +12,9 @@
 
 * Darkus - [https://github.com/Lucksi/Darkus](https://github.com/Lucksi/Darkus)
 
+* Onion Search Engine - [https://onionengine.com/](https://onionengine.com/), [http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/](http://kn3hl4xwon63tc6hpjrwza2npb7d4w5yhbzq7jjewpfzyhsd65tm6dad.onion/), [http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/](http://zgphrnyp45suenks3jcscwvc5zllyk3vz4izzw67puwlzabw4wvwufid.onion/)
+
+
 ## Tools to get onion links
 
 * Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/)
