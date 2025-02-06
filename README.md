@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ca913fb2-6528-4ac4-a5e6-28af2a926d6b](https://github.com/user-attachments/assets/7e4b6d80-eb9d-40d7-a906-cd3222e9ec8d" alt="Logo" width="500">
+  <img src="img.png" alt="Logo" width="300">
   <h1>OSINT Tools for the Dark Web</h1>
 </div>
 
