@@ -57,6 +57,12 @@
 
 * Prying Deep - [https://github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
 
+
+## Tools to proxy the Dark Web
+
+* Tor2Web - [https://github.com/tor2web/Tor2web](https://github.com/tor2web/Tor2web), [https://www.tor2web.org/](https://www.tor2web.org/)
+
+
 ## Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
