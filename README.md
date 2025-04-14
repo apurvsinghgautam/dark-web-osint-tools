@@ -1,10 +1,10 @@
 <div align="center">
   <img src="img.png" alt="Logo" width="300">
-  <h1>OSINT Tools for the Dark Web</h1>
+  <h1>🕵️‍♂️ OSINT Tools for the Dark Web</h1>
 </div>
 
 
-## Dark Web Search Engine Tools
+## 🔎 Dark Web Search Engine Tools
 
 * Katana - [https://github.com/adnane-X-tebbaa/Katana](https://github.com/adnane-X-tebbaa/Katana)
 
@@ -21,7 +21,7 @@
 * IACA Dark Web Investigation Support  - [https://iaca-darkweb-tools.com/](https://iaca-darkweb-tools.com/)
 
 
-## Tools to get onion links
+## 🧅 Tools to get onion links
 
 * Hunchly - [https://www.hunch.ly/darkweb-osint/](https://www.hunch.ly/darkweb-osint/)
 
@@ -32,7 +32,7 @@
 * Darkweblink - [darkweblink.com](https://darkweblink.com), [http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion](http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion)
 
 
-## Tools to scan onion links
+## 🔬 Tools to scan onion links
 
 * Onionscan - [https://github.com/s-rah/onionscan](https://github.com/s-rah/onionscan)
 
@@ -41,7 +41,7 @@
 * Onion-nmap - [https://github.com/milesrichardson/docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap)
 
 
-## Tools to crawl data from the Dark Web
+## 🕸️ Tools to crawl data from the Dark Web
 
 * TorBot - [https://github.com/DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
 
@@ -57,6 +57,6 @@
 
 * Prying Deep - [https://github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
 
-## Miscellaneous
+## 🧿 Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
