@@ -55,6 +55,10 @@
 
 * Prying Deep - [https://github.com/iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
 
+* DarkFox - https://github.com/aryanguenthner/darkfox
+
+* DarkScrape - https://github.com/itsmehacker/DarkScrape
+
 ## 🧿 Miscellaneous
 
 * DeepDarkCTI - [https://github.com/fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI)
